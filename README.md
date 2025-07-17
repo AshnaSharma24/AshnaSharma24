@@ -28,7 +28,8 @@
 
 ## 🚀 Projects
 
-- [Inkdrop](https://inkdrop.onrender.com) — A MERN stack project deployed on Render.
+- [Inkdrop](https://inkdrop.onrender.com) — A MERN stack Notes Application project deployed on Render.
+- [Word Scramble](https://github.com/AshnaSharma24/Word-Scramble) - A terminal-based word guessing game implemented in Bash, designed for Linux and macOS systems.
 
 ---
 
