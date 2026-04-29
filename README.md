@@ -19,7 +19,7 @@ I'm a **Backend & Full Stack Engineer** with a strong interest in building data-
 - 🔭 Currently building **Financial Analytics tools** and **MERN stack apps**
 - 🌱 Deep diving into **System Design, APIs, and Data-Driven Engineering**
 - 🎓 Penultimate Year B.E. CSE at **Chitkara University**
-- 💬 Ask me about **Node.js, React, Python, PostgreSQL, System Design**
+- 💬 Ask me about **Java, Node.js, React, Python, PostgreSQL, System Design**
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/ashna-sharma24)**
 - ⚡ Fun fact: **I build financial risk engines AND terminal word games — range is my thing!**
 
