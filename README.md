@@ -109,11 +109,11 @@ I'm a **Backend & Full Stack Engineer** with a strong interest in building data-
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshnaSharma24&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=ffffff" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AshnaSharma24&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
+</div>
 </div>
 
 <div align="center">
