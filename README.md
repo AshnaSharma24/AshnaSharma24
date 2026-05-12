@@ -148,6 +148,4 @@ I'm a **Backend & Full Stack Engineer** with a strong interest in building data-
 
 ⭐ **Show some love by starring some of my repositories!** ⭐
 
-![Visitor Count](https://komarev.com/ghpvc/?username=AshnaSharma24&color=06b6d4&style=for-the-badge&label=Profile+Views)
-
 </div>
