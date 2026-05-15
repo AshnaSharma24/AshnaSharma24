@@ -137,11 +137,16 @@ I'm a **Backend & Full Stack Engineer** with a strong interest in building data-
 ## 🥧 Skills Breakdown
 
 ```
-💻 Languages        ████████████████████  Java · Python · JavaScript · TypeScript
-🌐 Web Dev          ██████████████████░░  React · Node.js · Express · Streamlit
-📊 Data & Analytics ████████████████░░░░  Pandas · NumPy · Real-time Market Data
-🗄️ Databases        ██████████████░░░░░░  MongoDB · PostgreSQL · MySQL · Redis
-☁️ Cloud & DevOps   ████████████░░░░░░░░  AWS · Docker · Git · Postman
+```txt
+💻 Languages          ████████████████████  Java · Python · JavaScript · TypeScript · Solidity
+🌐 Web Dev            ██████████████████░░  React · Node.js · Express · Streamlit
+⛓️ Blockchain         ███████████████░░░░░  Ethereum · Hardhat · Ethers.js · MetaMask
+🤖 AI & Deep Learning ████████████████░░  TensorFlow · Keras · NLP · CNNs · EfficientNet
+📊 Data Analytics     ███████████████░░░░░  Pandas · NumPy · scikit-learn · Plotly
+🗄️ Databases          ██████████████░░░░░░  MongoDB · PostgreSQL · MySQL · Redis
+☁️ Cloud & DevOps     ████████████░░░░░░░░  AWS · Docker · Git · Vercel · Render
+```
+
 ```
 
 <div align="center">
