@@ -79,11 +79,19 @@ I'm a **Backend & Full Stack Engineer** with a strong interest in building data-
 
 ---
 
-
 ## 🚀 Featured Projects
 
+### 🔗 SubChain – Decentralized Subscription Management
+**Tech Stack:** `JavaScript` `Solidity` `Ethereum` `MetaMask` `Vercel`
+
+- Built a **Web3 dApp** for decentralized subscription management using Ethereum smart contracts
+- Integrated **MetaMask wallet integration** with transparent, on-chain payments on Sepolia testnet
+- Full-stack implementation with smart contract logic and interactive frontend — [Live App](https://sub-chain.vercel.app)
+
+---
+
 ### 📊 Financial Portfolio Risk & Analytics Engine
-**Tech Stack:** `Python` `Streamlit` `Pandas` `NumPy`
+**Tech Stack:** `Python` `Streamlit` `Pandas` `NumPy` `Yfinance`
 
 - Built a **live financial analytics web app** that evaluates portfolio risk, volatility, and diversification
 - Integrated **real-time market data** to dynamically score and visualize portfolio health
@@ -91,20 +99,21 @@ I'm a **Backend & Full Stack Engineer** with a strong interest in building data-
 
 ---
 
-### 📝 Inkdrop – Notes Application
-**Tech Stack:** `MongoDB` `Express.js` `React` `Node.js`
+### 💡 MoneyMind – AI Finance Advisor Chatbot
+**Tech Stack:** `Python` `NLP` `TF-IDF` `Cosine Similarity`
 
-- Full-stack **MERN notes app** with clean UI and persistent storage
-- Deployed on Render with seamless user experience — [Live App](https://inkdrop.onrender.com)
+- Intelligent **personal finance chatbot** combining NLP-based retrieval with rule-based calculators
+- Advanced features: EMI calculator, SIP planner, savings optimization
+- Demonstrates expertise in **AI/ML and financial domain knowledge** — [View Repo](https://github.com/AshnaSharma24/MoneyMind-Chatbot)
 
 ---
 
-### 🎮 Word Scramble – Terminal Word Game
-**Tech Stack:** `Bash` `Linux`
+### 📝 Inkdrop – Notes Application
+**Tech Stack:** `MongoDB` `Express.js` `React` `Node.js` `Tailwind CSS` `Redis`
 
-- Terminal-based **word guessing game** built in pure Bash
-- Designed for Linux and macOS systems with a focus on simplicity and fun
-- [GitHub Repo](https://github.com/AshnaSharma24/Word-Scramble)
+- Full-stack **MERN notes app** with real-time CRUD operations and advanced security
+- Implemented **Redis rate limiting** for API security with responsive design
+- Deployed on Render with seamless user experience — [Live App](https://inkdrop.onrender.com)
 
 ---
 
@@ -138,7 +147,7 @@ I'm a **Backend & Full Stack Engineer** with a strong interest in building data-
 
 ```
 ```txt
-💻 Languages          ████████████████████  Java · Python · JavaScript · TypeScript · Solidity
+💻 Languages          ████████████████████  Java · Python · JavaScript  · Solidity
 🌐 Web Dev            ██████████████████░░  React · Node.js · Express · Streamlit
 ⛓️ Blockchain         ███████████████░░░░░  Ethereum · Hardhat · Ethers.js · MetaMask
 🤖 AI & Deep Learning ████████████████░░  TensorFlow · Keras · NLP · CNNs · EfficientNet
@@ -147,10 +156,3 @@ I'm a **Backend & Full Stack Engineer** with a strong interest in building data-
 ☁️ Cloud & DevOps     ████████████░░░░░░░░  AWS · Docker · Git · Vercel · Render
 ```
 
-```
-
-<div align="center">
-
-⭐ **Show some love by starring some of my repositories!** ⭐
-
-</div>
