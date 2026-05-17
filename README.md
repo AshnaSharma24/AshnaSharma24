@@ -146,7 +146,6 @@ I'm a **Backend & Full Stack Engineer** with a strong interest in building data-
 ## 🥧 Skills Breakdown
 
 ```
-```txt
 💻 Languages          ████████████████████  Java · Python · JavaScript  · Solidity
 🌐 Web Dev            ██████████████████░░  React · Node.js · Express · Streamlit
 ⛓️ Blockchain         ███████████████░░░░░  Ethereum · Hardhat · Ethers.js · MetaMask
